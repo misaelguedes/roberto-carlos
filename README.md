@@ -20,6 +20,5 @@ O site foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- Git e Github
 
 Esperamos que você desfrute do site dedicado a Roberto Carlos! Sinta-se à vontade para compartilhar com outros fãs e explorar as conquistas incríveis deste lendário jogador.
